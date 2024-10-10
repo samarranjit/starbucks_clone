@@ -34,8 +34,10 @@
     height: 100%;
 }
 .left-right-section .text, .left-right-section .image{
-    width:50%;
+    width:100%;
     height:100%;
+    object-fit: cover;
+    
 }
 
 .left-right-section .image{
